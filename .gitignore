@@ -1,0 +1,19 @@
+.history*
+.idea
+settings.py
+
+work
+alias
+output
+tmp
+temp
+venv
+
+rsync_*.sh
+
+# Python specific
+*.pyc
+
+*.lock
+
+*__pycache__*
