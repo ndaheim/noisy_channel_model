@@ -69,7 +69,7 @@ If you do not want to use sisyphus, it is also possible to run the code directly
 For using the noisy channel model, `model_name_or_path` has to point to a checkpoint created using `code/i6_noisy_channel/models/create_nc_checkpoint.py`that wraps all components into one model.
 ## Citation
 
-If you use part of this work, please cite [our paper](https://arxiv.org/pdf/2112.08844.pdf):
+If you use part of this work, please cite [our paper](https://arxiv.org/pdf/2210.17418.pdf):
 
 ```
 @inproceedings{daheimNoisyChannelEMNLP2022,
